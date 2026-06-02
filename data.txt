@@ -1,0 +1,126 @@
+Artificial Intelligence (AI)
+
+Definition:
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+Types of AI:
+
+1. Narrow AI (Weak AI)
+- Designed to perform specific tasks.
+- Examples: ChatGPT, Siri, Alexa, Google Translate.
+
+2. General AI (Strong AI)
+- A theoretical form of AI that can perform any intellectual task a human can do.
+- Does not currently exist.
+
+3. Super AI
+- A hypothetical AI that surpasses human intelligence in all aspects.
+- Currently exists only in theory.
+
+Machine Learning (ML)
+
+Definition:
+Machine Learning is a subset of AI that enables systems to learn from data and improve performance without being explicitly programmed.
+
+Types of Machine Learning:
+
+1. Supervised Learning
+- Uses labeled data.
+- Examples: Classification, Regression.
+
+2. Unsupervised Learning
+- Uses unlabeled data.
+- Examples: Clustering, Dimensionality Reduction.
+
+3. Reinforcement Learning
+- Learns through rewards and penalties.
+- Examples: Game-playing AI, Robotics.
+
+Deep Learning
+
+Definition:
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to process data.
+
+Applications:
+- Image Recognition
+- Speech Recognition
+- Natural Language Processing
+- Autonomous Vehicles
+
+Natural Language Processing (NLP)
+
+Definition:
+NLP enables computers to understand, interpret, and generate human language.
+
+Applications:
+- Chatbots
+- Language Translation
+- Sentiment Analysis
+- Text Summarization
+
+Large Language Models (LLMs)
+
+Definition:
+Large Language Models are deep learning models trained on massive text datasets to understand and generate human-like text.
+
+Examples:
+- GPT-4
+- GPT-5
+- Claude
+- Gemini
+- Llama
+
+Retrieval-Augmented Generation (RAG)
+
+Definition:
+RAG combines information retrieval with language generation. Instead of relying only on the model's training data, it retrieves relevant documents from a knowledge base and uses them to generate accurate responses.
+
+RAG Workflow:
+1. User asks a question.
+2. Question is converted into embeddings.
+3. Vector database searches for similar documents.
+4. Relevant chunks are retrieved.
+5. Retrieved context is sent to the LLM.
+6. LLM generates an answer based on the context.
+
+Benefits of RAG:
+- Reduces hallucinations.
+- Provides up-to-date information.
+- Allows use of private company data.
+- Improves answer accuracy.
+
+Popular Vector Databases:
+- Pinecone
+- ChromaDB
+- Weaviate
+- FAISS
+- Milvus
+
+Embeddings
+
+Definition:
+Embeddings are numerical vector representations of text that capture semantic meaning.
+
+Examples:
+- Sentence Transformers
+- OpenAI Embeddings
+- Hugging Face Embeddings
+
+AI Applications:
+- Healthcare
+- Finance
+- Education
+- Cybersecurity
+- E-commerce
+- Autonomous Vehicles
+- Customer Support
+
+Challenges in AI:
+- Bias in data
+- Privacy concerns
+- Explainability
+- Security risks
+- High computational costs
+
+Future of AI:
+AI is expected to become more capable in reasoning, multimodal understanding, automation, scientific research, healthcare, and personalized education.
